@@ -17,4 +17,4 @@ describe('Mode', function() {
   it('gets an accurae mode', function() {
     expect(mmm.mode(5,5,6,7)).to.eql(5);
   });
-})
+});
